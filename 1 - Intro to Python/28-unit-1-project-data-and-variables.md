@@ -10,7 +10,7 @@ Declare and assign a variable for every data point listed below.
 
 | Variable  | Value |
 | ------------- | ------------- |
-| ``date``  | Thursday 2021-03-18  |
+| ``date``  | Thursday 2030-03-18  |
 | ``time``  | 10:05:34 AM  |
 |``average_astronaut_mass_kg``|80.7|
 |``fuel_mass_kg``|760000|
@@ -59,7 +59,7 @@ your variable names instead!
 -------------------
 > LAUNCH CHECKLIST
 -------------------
-Date: Thursday 2021-03-18
+Date: Thursday 2030-03-18
 Time: 10:05:34 AM
 
 -------------------
